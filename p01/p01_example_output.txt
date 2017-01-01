@@ -1,0 +1,136 @@
+Employee DB Menu:
+----------------------------------
+  (1) Print the Database
+  (2) Lookup by ID
+  (3) Lookup by Last Name
+  (4) Add an Employee
+  (5) Quit 
+----------------------------------
+Enter your choice: 1
+
+NAME                              SALARY 	     ID
+---------------------------------------------------------------
+Kyoko           Benoit             72000   		165417
+Judi            Wansley            69000   		279265
+Jacinda         Ravencraft         91000   		471163
+Pamula          Lanning            84000   		485913
+Gale            Wester             72000   		499959
+Connie          Stiltner           71000   		517931
+Shea            Bearden            82000   		553997
+Maisha          Elmore             99000   		633976
+Precious        Richert            87000   		684382
+Tisha           Jaquez             94000   		702234
+Jamika          Pigford           114000  		779387
+Synthia         Piro               82000		786785
+Don             Kinard             98000   		935460
+Lana            Brammer           109000  		971117
+---------------------------------------------------------------
+ Number of Employees (14)
+
+Employee DB Menu:
+----------------------------------
+  (1) Print the Database
+  (2) Lookup by ID
+  (3) Lookup by Last Name
+  (4) Add an Employee
+  (5) Quit 
+----------------------------------
+Enter your choice: 10
+I don't like the number 10... try again between 1 and 5.
+Enter your choice: 2
+
+Enter a 6 digit employee id: 461769
+Employee with id 461769 not found in DB
+
+Employee DB Menu:
+----------------------------------
+  (1) Print the Database
+  (2) Lookup by ID
+  (3) Lookup by Last Name
+  (4) Add an Employee
+  (5) Quit 
+----------------------------------
+Enter your choice: 2
+
+Enter a 6 digit employee id: 553997
+
+NAME                              SALARY 	     ID
+---------------------------------------------------------------
+Shea            Bearden            82000   		553997
+---------------------------------------------------------------
+
+Employee DB Menu:
+----------------------------------
+  (1) Print the Database
+  (2) Lookup by ID
+  (3) Lookup by Last Name
+  (4) Add an Employee
+  (5) Quit 
+----------------------------------
+Enter your choice: 3
+
+Enter Employee's last name (no extra spaces): Lanning
+
+NAME                              SALARY 	     ID
+---------------------------------------------------------------
+Pamula          Lanning            84000   		485913
+---------------------------------------------------------------
+
+Employee DB Menu:
+----------------------------------
+  (1) Print the Database
+  (2) Lookup by ID
+  (3) Lookup by Last Name
+  (4) Add an Employee
+  (5) Quit 
+----------------------------------
+Enter your choice: 4
+Enter the first name of the employee: Sat
+Enter the first name of the employee: Garcia
+Enter a 6 digit employee id num: 501337
+Enter employee's salary (30000 to 150000): 150000
+Do you want to add the following employee to the DB?
+	Sat Garcia, salary: 150000, id: 501337 
+Enter 1 for yes, 0 for no: 1
+
+Employee DB Menu:
+----------------------------------
+  (1) Print the Database
+  (2) Lookup by ID
+  (3) Lookup by Last Name
+  (4) Add an Employee
+  (5) Quit 
+----------------------------------
+Enter your choice: 1
+
+NAME                              SALARY 	     ID
+---------------------------------------------------------------
+Kyoko           Benoit             72000   		165417
+Judi            Wansley            69000   		279265
+Jacinda         Ravencraft         91000   		471163
+Pamula          Lanning            84000   		485913
+Gale            Wester             72000   		499959
+Sat             Garcia            150000		501337
+Connie          Stiltner           71000   		517931
+Shea            Bearden            82000   		553997
+Maisha          Elmore             99000   		633976
+Precious        Richert            87000   		684382
+Tisha           Jaquez             94000   		702234
+Jamika          Pigford           114000  		779387
+Synthia         Piro               82000		786785
+Don             Kinard             98000   		935460
+Lana            Brammer           109000  		971117
+---------------------------------------------------------------
+ Number of Employees (15)
+
+Employee DB Menu:
+----------------------------------
+  (1) Print the Database
+  (2) Lookup by ID
+  (3) Lookup by Last Name
+  (4) Add an Employee
+  (5) Quit 
+----------------------------------
+Enter your choice: 5
+
+Fare thee well!
